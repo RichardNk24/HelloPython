@@ -1,1 +1,1 @@
-D'accord je suis  
+D'accord  
