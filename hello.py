@@ -1,1 +1,1 @@
-D'accord je suis la. Pour 
+D'accord je suis  
