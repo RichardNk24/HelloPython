@@ -1,2 +1,2 @@
 name = input("What's your name?")
-pri
+p
