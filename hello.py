@@ -1,4 +1,4 @@
 
-name = "Richard Sobelw Nkulu"
+name = "Richard Sobel Nkulu"
 print(name + "is my name")
 
